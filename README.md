@@ -17,7 +17,7 @@ NOTHING :-)
 Linux:
 
 ```sh
-git git@github.com:dhimanparas20/weather-info-using-python.git && cd weather*
+git clone  git@github.com:dhimanparas20/weather-info-using-python.git && cd weather*
 ```
   
 ```sh
